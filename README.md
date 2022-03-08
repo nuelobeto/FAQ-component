@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/faqcomponent-built-with-react-HVjnM2i-h)
+- Live Site URL: [live site URL](https://nuelobeto.github.io/FAQ-component/)
 
 ### Built with
 
