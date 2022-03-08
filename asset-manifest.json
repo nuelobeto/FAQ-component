@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FAQ-component/static/css/main.5f855720.css",
+    "main.js": "/FAQ-component/static/js/main.959b107a.js",
+    "static/media/illustration-woman-online-mobile.svg": "/FAQ-component/static/media/illustration-woman-online-mobile.fe928f9c476ef6d332672b3ab38268fd.svg",
+    "static/media/illustration-woman-online-desktop.svg": "/FAQ-component/static/media/illustration-woman-online-desktop.843eb114c7213a596ee2.svg",
+    "static/media/illustration-box-desktop.svg": "/FAQ-component/static/media/illustration-box-desktop.ec1ba14b853c562a663728483bac4824.svg",
+    "index.html": "/FAQ-component/index.html",
+    "static/media/bg-pattern-desktop.svg": "/FAQ-component/static/media/bg-pattern-desktop.f51e07a2f52390c60484.svg",
+    "static/media/bg-pattern-mobile.svg": "/FAQ-component/static/media/bg-pattern-mobile.55aee9128a769eedabec.svg",
+    "static/media/icon-arrow-down.svg": "/FAQ-component/static/media/icon-arrow-down.852fa301a0e795e07c5966b1c156025f.svg",
+    "main.5f855720.css.map": "/FAQ-component/static/css/main.5f855720.css.map",
+    "main.959b107a.js.map": "/FAQ-component/static/js/main.959b107a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f855720.css",
+    "static/js/main.959b107a.js"
+  ]
+}
